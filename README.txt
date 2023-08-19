@@ -1,10 +1,10 @@
-Sentiment Analysis on Movie Reviews and Twitter Airline Sentiments
+Sentiment Analysis on Movie Reviews, Twitter Airline Sentiments, and News Group Dataset
 
-Perform sentiment analysis on the IMDb movie reviews dataset and the Twitter Airline Sentiment Dataset using machine learning models. Categorize text data as positive, negative, or neutral sentiments.
+Perform sentiment analysis on the IMDb movie reviews dataset, the Twitter Airline Sentiment Dataset, and the news group dataset using various machine learning models. Categorize text data as positive, negative, or neutral sentiments.
 
 Getting Started:
 
-Follow these steps to run the sentiment analysis code for both datasets:
+Follow these steps to run the sentiment analysis code for all datasets using different algorithms:
 
 Prerequisites:
 
@@ -33,14 +33,19 @@ cd sentiment-analysis
 
 4. Open and run the imdb_sentiment_analysis.ipynb notebook for the IMDb dataset or twitter_sentiment_analysis.ipynb notebook for the Twitter dataset using Jupyter Notebook or Jupyter Lab.
 
-5. Follow the notebook's instructions to perform sentiment analysis on the respective dataset.
+5. For the news group dataset, open and run the news_group_sentiment_analysis.ipynb notebook using Jupyter Notebook or Jupyter Lab.
+
+6. In the notebooks, explore different machine learning models including Random Forest, Decision Tree, and Gradient Descent for sentiment analysis.
 
 Results and Observations:
 
-The notebook will display classification metrics and observations about model performance. Gain insights into sentiment distribution and model accuracy, precision, recall, and F1-score.
+The notebooks will display classification metrics and observations about model performance for each dataset. Gain insights into sentiment distribution and model accuracy, precision, recall, and F1-score using different algorithms.
 
 Future Extensions:
 
 This section is a placeholder for future extensions, suggesting how the project could be further improved or expanded.
 
+License:
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
